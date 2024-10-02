@@ -1,3 +1,7 @@
+# Primary objective 
+
+#### *My main goal in creating this repository is to demonstrate my proficiency in Pyhton's Request, Pandas, BeautifullSoup Library*  
+
 # Web_Scraping
 Scraped websites using request and beautifulsoup python libraries
 
